@@ -16,7 +16,7 @@
 <!-- Mixins-->
 <!-- Pen Title-->
 <div class="pen-title">
-  <h1>Material Login Form</h1><span>Pen <i class='fa fa-code'></i> by <a href='http://andytran.me'>Andy Tran</a></span>
+  <h1>Material Login Form</h1><span>Pen <i class='fa fa-code'></i> by <a href=''>Sư phạm ĐN</a></span>
 </div>
 <div class="rerun"><a href="">Rerun Pen</a></div>
 
@@ -86,8 +86,8 @@
 <!-- ending two form: login and register -->
 
 
-<!-- Portfolio--><a id="portfolio" href="http://andytran.me/" title="View my portfolio!"><i class="fa fa-link"></i></a>
-<!-- CodePen--><a id="codepen" href="https://codepen.io/andytran/" title="Follow me!"><i class="fa fa-codepen"></i></a>
+<!-- Portfolio--><a id="portfolio" href="" title="View my portfolio!"><i class="fa fa-link"></i></a>
+<!-- CodePen--><a id="codepen" href="andytran/" title="Follow me!"><i class="fa fa-codepen"></i></a>
     
 <script src="js/index.js">
  </script>
